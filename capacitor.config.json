@@ -1,0 +1,9 @@
+{
+  "appId": "com.basicenglish.app",
+  "appName": "Basic English",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
